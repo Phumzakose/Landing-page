@@ -39,9 +39,10 @@ a:active {
   background-color: #1089ad;
   font-style: italic;
 }
-.container {
+.wrapper {
   margin-top: 200px;
 }
+
 @media (max-width: 600px) {
   .main-nav {
     background-color: #1089ad;
